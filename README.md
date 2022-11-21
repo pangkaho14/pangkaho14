@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pangkaho14!
+- 👋 Hi, I’m @pangkaho14! A Software Engineering undergraduate at the Singapore Institute of Technology! Nice to meet you! :)
 - 👀 I’m interested in backend development and all aspects of software engineering!
 - 🌱 I’m currently learning about software engineering in my undergraduate studies at SIT.
 - 📫 How to reach me: pangkaho.14@gmail.com
